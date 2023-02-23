@@ -5,7 +5,7 @@
 ### 1) `git clone https://github.com/cortiz2894/alkemy-alkybank.git`
 
 Clonar el repositorio en su local.
-
+asdas
 ### 2) `npm i`
 Cambio
 Una vez con el repositorio clonado ingresar a la carpeta 'alkemy-alkybank' y utilizar el comando para instalar las dependencias.
