@@ -7,7 +7,7 @@
 Clonar el repositorio en su local.
 
 ### 2) `npm i`
-
+Cambio
 Una vez con el repositorio clonado ingresar a la carpeta 'alkemy-alkybank' y utilizar el comando para instalar las dependencias.
 
 ### 3) `npm start`
